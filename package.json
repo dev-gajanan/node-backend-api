@@ -1,0 +1,26 @@
+{
+  "name": "node-backend-api",
+  "version": "1.0.0",
+  "description": "Node JS Backend API for open source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-gajanan/node-backend-api.git"
+  },
+  "keywords": [
+    "Node",
+    "Backend",
+    "api",
+    "open",
+    "source"
+  ],
+  "author": "Gajanan Mallik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-gajanan/node-backend-api/issues"
+  },
+  "homepage": "https://github.com/dev-gajanan/node-backend-api#readme"
+}
