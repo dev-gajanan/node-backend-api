@@ -4,7 +4,7 @@
   "description": "Node JS Backend API for open source",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/dev-gajanan/node-backend-api/issues"
   },
-  "homepage": "https://github.com/dev-gajanan/node-backend-api#readme"
+  "homepage": "https://github.com/dev-gajanan/node-backend-api#readme",
+  "devDependencies": {
+    "prettier": "^3.1.1"
+  }
 }
